@@ -4,7 +4,7 @@ arch:
   - amd64
 
 go:
-  - 1.6
+  - 1.13
 
 install:
   - go get github.com/stretchr/testify/assert
